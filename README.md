@@ -6,6 +6,12 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project Link
+
+- GitHub link: https://github.com/algento/build-ml-pipeline-for-short-term-rental-prices
+- Wandb project link: https://wandb.ai/algento/nyc_airbnb
+- Release: 1.0.1
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
