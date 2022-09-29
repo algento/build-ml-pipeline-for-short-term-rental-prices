@@ -22,12 +22,12 @@ entry_points:
         type: string
 
       min_price:
-        description: minimum price
-        type: string
+        description: minimum price for outlier removal
+        type: float
 
       max_price:
-        description: maximum price
-        type: string
+        description: maximum price for outlier removal
+        type: float
 
 
     command: >-
